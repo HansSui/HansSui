@@ -2,10 +2,6 @@
 *Applied Cryptography & Low-Level System Security Researcher*
 (this is a vibe-code theme, mi lazy hihi)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HansSui&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://giphy.com/gifs/kawaii-hoshimachi-suisei-suichan-0DXZTnKTKc7I4hIfKp" height="150" />
-</p>
 ---
 
 ### 🔬 Research Focus & Interests
