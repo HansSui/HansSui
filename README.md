@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HansSui&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" height="150" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="150" />
 </p>
 ---
 
