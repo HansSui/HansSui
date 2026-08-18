@@ -3,7 +3,9 @@
 (this is a vibe-code theme, mi lazy hihi)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HansSui&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HansSui&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HansSui&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" />
+</p>
 ---
 
 ### 🔬 Research Focus & Interests
