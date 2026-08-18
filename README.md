@@ -1,5 +1,6 @@
-# Hi there, I'm Nguyen Cong Tuan (HansSui) 👋
+# Hi gai, Mi Nguyen Cong Tuan (HansSui) 👋
 *Applied Cryptography & Low-Level System Security Researcher*
+(this is a vibe-code theme, mi lazy hihi)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HansSui&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansSui&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,12 +35,12 @@
 
 ### 🚀 Key Projects
 
-- 🔒 **[PQC-Hybrid-Vault](https://github.com/HansSui/PQC-Hybrid-Vault)**: A Post-Quantum Hybrid File Encryption tool combining **ECDH (P-256)** and **ML-KEM-768 (Kyber)** with authenticated **AES-256-GCM** encryption.
-- 🧮 **[Crypto-Arithmetic-Lib](https://github.com/HansSui)**: High-performance BigInt arithmetic and classical cryptanalysis toolkit (BSGS, Pohlig-Hellman, RSA Factorization) in C++.
+- 🔒 **[PQC-Hybrid-Vault](https://github.com/HansSui/PQC_vault)**: A Post-Quantum Hybrid File Encryption tool combining **ECDH (P-256)** and **ML-KEM-768 (Kyber)** with authenticated **AES-256-GCM** encryption.
+- 🧮 **[Crypto-Arithmetic-Lib](https://github.com/HansSui/Cryptography)**: High-performance BigInt arithmetic and classical cryptanalysis toolkit (BSGS, Pohlig-Hellman, RSA Factorization) in C++.
 
 ---
 
 ### 🌐 Connect with Me
 - ✉️ **Email:** `25522012.gm.uit.edu.vn`
-- 🧩 **CryptoHack:** [HansSui](https://cryptohack.org/user/HansSui)
+- 🧩 **CryptoHack:** [HansSui](https://cryptohack.org/user/Hans_sui/)
 - 🎓 **Affiliation:** University of Information Technology (VNU-HCM)
