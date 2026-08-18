@@ -2,8 +2,11 @@
 *Applied Cryptography & Low-Level System Security Researcher*
 (this is a vibe-code theme, mi lazy hihi)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HansSui&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![HansSui's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HansSui&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)---
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HansSui&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" height="150" />
+</p>
+---
 
 ### 🔬 Research Focus & Interests
 - 🛡️ **Post-Quantum Cryptography (PQC):** Lattice-based primitives (ML-KEM/Kyber, ML-DSA/Dilithium, LWE, SIS).
