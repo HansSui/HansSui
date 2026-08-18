@@ -3,9 +3,7 @@
 (this is a vibe-code theme, mi lazy hihi)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HansSui&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HansSui&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" />
-</p>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HansSui&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 🔬 Research Focus & Interests
