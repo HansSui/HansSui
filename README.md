@@ -3,8 +3,7 @@
 (this is a vibe-code theme, mi lazy hihi)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HansSui&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HansSui&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4)](https://github.com/ryo-ma/github-profile-trophy)
----
+[![HansSui's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HansSui&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)---
 
 ### 🔬 Research Focus & Interests
 - 🛡️ **Post-Quantum Cryptography (PQC):** Lattice-based primitives (ML-KEM/Kyber, ML-DSA/Dilithium, LWE, SIS).
