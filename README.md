@@ -7,8 +7,8 @@
 ### 🔬 Research Focus & Interests
 - 🛡️ **Post-Quantum Cryptography (PQC):** Lattice-based primitives (ML-KEM/Kyber, ML-DSA/Dilithium, LWE, SIS).
 - 🔐 **Applied Cryptography:** Hybrid Key Exchange (KEM), Key Management Systems (KMS), Zero-Knowledge / Secure Enclaves.
-- ⚙️ **System & Low-Level Security:** Memory safety, Linux Kernel security, Reverse Engineering with Ghidra/x64dbg.
-- 🧮 **Cryptanalysis:** Solving mathematical challenges on [CryptoHack](https://cryptohack.org/user/Hans_sui/) (1,500+ pts).
+- ⚙️ **System & Low-Level Security:** Memory safety, Linux Kernel security.
+- 🧮 **Cryptanalysis:** Solving mathematical challenges on [CryptoHack](https://cryptohack.org/user/Hans_sui/) (2000+ pts).
 
 ---
 
